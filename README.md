@@ -1,5 +1,7 @@
 Program source: Leetcode
 
+Visot : https://leetcode.com/problems/odd-even-linked-list/discuss/275301/Simple-Javascript-JS-solution-faster-than-83.65-of-JavaScript-online-submissions
+
 Submission Detail: 71 / 71 test cases passed.
 
 Program description: Odd Even Linked List
